@@ -74,3 +74,16 @@ martin:
   facebook: False
   twitter: False
   cover: False
+
+heyvp7:
+  username: heyvp7
+  name: Viswaprasath
+  location: Chennai, India
+  url_full: https://github.com/iamVP7/
+  url: github.com/iamVP7/
+  bio: Developer with passion to educate other developers. 
+  picture: assets/images/martin.jpg
+  facebook: False
+  twitter: HeyVP7
+  cover: False
+
