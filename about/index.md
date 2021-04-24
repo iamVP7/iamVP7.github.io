@@ -29,7 +29,7 @@ I love contributing to Open source technologies. I have been contributing to Moz
 Along with 2 other MozillaReps from Tamilnadu started regional community to strengthen Open source communities around Tamilnadu. One of the strongest regional community in India and which bring lot of new initiative to grow contributors. Active engagement channel is [Telegram](https://t.me/mozillatnc)
 
   - Designed first [Weeks Of Contribution](https://vp7techie.wordpress.com/2015/06/24/weeks-of-contribution/) program where new contributors were trained using Youtube in 2015, which acted as seed for todays's contributors around Tamilnadu.
-  - Organized [irst MozillaTN meetup](https://vp7techie.wordpress.com/2017/02/24/mozillatn-first-meetup/) in 2017.
+  - Organized [First MozillaTN meetup](https://vp7techie.wordpress.com/2017/02/24/mozillatn-first-meetup/) in 2017.
   - In 2017, to spread more information about Software freedom day, created a short template for first time contributors [SFD17](https://mozillatn.github.io/sfd17/)
   - Collaborated with more than 20 colleges and brought around 200 contributors. 
 
