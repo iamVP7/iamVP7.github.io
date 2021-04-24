@@ -62,6 +62,6 @@ GSA act as liasion between Google and Institute where students studies.
 - Was one of top 16 Google Student Ambassador for year 2012-2013. Due to this got a chance to give panel discussion at Google India Community Summit 2013 for new set of Google Students Ambassador(2013-2014).
 
 ## Contact
-Feel free to reach out to me on [Twitter](https://twitter.com/heyvp7). I’ll be happily chat with you or answer any questions you may have.
+Feel free to reach out to me on [Twitter](https://twitter.com/heyvp7) and [LinkedIn](https://www.linkedin.com/in/viswaprasathks/). I’ll be happily chat with you or answer any questions you may have.
 
 Thanks all!
