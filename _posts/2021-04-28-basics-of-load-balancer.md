@@ -12,7 +12,7 @@ author: heyvp7
 ---
 Load Balancer 
 
-In our previous post Proxy Vs Reverse Proxy, we have seen reverse proxy is widely used as Load Balancer. In this post, we will be checking what is a load balancer, what are various advantages of using a load balancer, what are the commonly used algorithms.
+In our previous post [Proxy Vs Reverse Proxy](/proxy-vs-reverse-proxy), we have seen reverse proxy is widely used as Load Balancer. In this post, we will be checking what is a load balancer, what are various advantages of using a load balancer, what are the commonly used algorithms.
 
 In this post, we can consider the website https://www.flipkart.com one of the famous E-commerce shopping website.  From May 2nd - 7th they are having a massive event named Big Savings Days. During this time the requests from the users like us will be tremendous. Flipkart will be having  100's of servers for scaling this many users.
 
