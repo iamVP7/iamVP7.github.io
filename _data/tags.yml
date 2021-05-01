@@ -15,6 +15,6 @@ getting-started:
   description: False
   cover: False
 system-design:
-  name: System Design
+  name: system-design
   description: Series of learning on designing distributed systems.
   cover: assets/images/proxy-vs-reverse-proxy.jpg
