@@ -12,22 +12,22 @@ subclass: 'post page'
 
 ### Talks
 
-*Fasten Development Using OpenAPI Specification* at COEP FOSSMeet'21 [Session Details](https://foss.coep.org.in/fossmeet/Fossmeet21/?page_id=2611#dev)
+- *Fasten Development Using OpenAPI Specification* at COEP FOSSMeet'21 [Session Details](https://foss.coep.org.in/fossmeet/Fossmeet21/?page_id=2611#dev)
 
 ## 2020
 
 ### Talks
 
-*WebAR & Mixed reality on Browsers*  at FB DevCircle Chennai Meetup [Slides](https://drive.google.com/file/d/1WX8KIN96TAb54aQfM5wB1rjFMebrEHBe/view?usp=sharing)
+- *WebAR & Mixed reality on Browsers*  at FB DevCircle Chennai Meetup [Slides](https://drive.google.com/file/d/1WX8KIN96TAb54aQfM5wB1rjFMebrEHBe/view?usp=sharing)
 
 
 ## 2019
 
 ### Talks
 
-*Cross Browser Extension* at [GDG Devfest Coimbatore](https://devfest19.gdgcbe.com/speakers) [Slides](https://drive.google.com/file/d/15QFctvCHjWxkCAIn8epm54bHk3NPLYv1/view)
+- *Cross Browser Extension* at [GDG Devfest Coimbatore](https://devfest19.gdgcbe.com/speakers) [Slides](https://drive.google.com/file/d/15QFctvCHjWxkCAIn8epm54bHk3NPLYv1/view)
 
-*WebAR & Mixed reality on Browsers*  at VIT Vellore
+- *WebAR & Mixed reality on Browsers*  at VIT Vellore
 
 ## 2018
 
