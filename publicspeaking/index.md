@@ -33,8 +33,8 @@ subclass: 'post page'
 
 ### Talks
 
-*BUILDING BROWSERS INTERNALS Using WebExtensions APIs* at COEP FOSSMeet'18  [Speakers Page](http://foss.coep.org.in/fossmeet/fossmeet18/#gtco-speakers)
-*Building One Extension for All Browsers with WebExtensions APIs* at gnuNify'18 [Slides](https://drive.google.com/drive/u/0/folders/0BynHVcltkfkwUVlTdHp1SkFmb0k)
+- *BUILDING BROWSERS INTERNALS Using WebExtensions APIs* at COEP FOSSMeet'18  [Speakers Page](http://foss.coep.org.in/fossmeet/fossmeet18/#gtco-speakers)
+- *Building One Extension for All Browsers with WebExtensions APIs* at gnuNify'18 [Slides](https://drive.google.com/drive/u/0/folders/0BynHVcltkfkwUVlTdHp1SkFmb0k)
 
 ## 2016 
 
