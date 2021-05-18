@@ -17,15 +17,15 @@ There is a classica cryptography algorith named [Caesar Cipher](https://en.wikip
 
 So once we rotate the array two times, we will be having new array like below.
 
-A -> C
-B -> D
-C -> E
-D -> F
+- A -> C
+- B -> D
+- C -> E
+- D -> F
 ...
 
-X -> Z
-Y -> A
-Z -> B
+- X -> Z
+- Y -> A
+- Z -> B
 
 To achieve this programatically below program will be helpful. We have two algorithms for this. 
 
@@ -99,9 +99,9 @@ Assumed our array is -> int[] arrayOfNumber = {1,2,3,4,5,6,7,8,9};
 
 So we will have the segments each with 3 elements. 
 
-Segment1 -> {1,2,3}
-Segment2 -> {4,5,6}
-Segment3 -> {7,8,9}
+- Segment1 -> {1,2,3}
+- Segment2 -> {4,5,6}
+- Segment3 -> {7,8,9}
 
 First we will be having the first element (initial index element -> 0) to swap in temporary argument. In our case its 1.
 
@@ -125,18 +125,18 @@ So now the temporary element will be at array[1]  which is 2.
 
 Now we will be elements will be replaced like this
 
-2 <- 5
-5 <- 8
-8 <- 2
+- 2 <- 5
+- 5 <- 8
+- 8 <- 2
 
 Now the updated the array will be like below.
 {4,5,3,7,8,6,1,2,9}
 
 Next we will increment inital index by 1 so it becomes 2 now. and swap numbers left numbers
 
-3 <- 6
-6 <- 9
-9 <- 3
+- 3 <- 6
+- 6 <- 9
+- 9 <- 3
 
 Now the updated the array will be like below.
 {4,5,6,7,8,9,1,2,3}
