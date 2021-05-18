@@ -5,7 +5,7 @@ cover:  assets/images/rotated_array_new.jpg
 navigation: True
 title: Rotating Array
 date: 2021-05-06 00:00:00
-tags: [Data Structures]
+tags: [data-structures]
 class: post-template
 subclass: 'post'
 author: heyvp7
