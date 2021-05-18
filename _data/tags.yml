@@ -1,20 +1,8 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
 system-design:
   name: system-design
   description: Series of learning on designing distributed systems.
-  cover: assets/images/proxy-vs-reverse-proxy.jpg
+  cover: False
+data-structures:
+ name: data-structures
+  description: Series of Post to learn  about Data Structures with Examples
+  cover: False
